@@ -6,7 +6,8 @@
     ],
     "Deps": [
     	{
-    		"ImportPath":"github.com/russross/blackfriday"
+    		"ImportPath":"github.com/russross/blackfriday",
+    		"Rev":"8cec3a854e68dba10faabbe31c089abf4a3e57a6"
     	}
     ]
 }
