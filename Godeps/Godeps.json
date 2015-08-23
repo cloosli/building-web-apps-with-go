@@ -1,13 +1,11 @@
 {
     "ImportPath": "github.com/cloosli/building-web-apps-with-go",
-    "GoVersion": "go1.5",
+    "GoVersion": "go1.4.2",
     "Packages": [
         "./..."
     ],
-    "Deps": [
-    	{
-    		"ImportPath":"github.com/russross/blackfriday",
-    		"Rev":"8cec3a854e68dba10faabbe31c089abf4a3e57a6"
-    	}
-    ]
+    "Deps": [{
+        "ImportPath": "github.com/russross/blackfriday",
+        "Rev": "8cec3a854e68dba10faabbe31c089abf4a3e57a6"
+    }]
 }
