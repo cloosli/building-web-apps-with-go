@@ -1,0 +1,7 @@
+{
+    "ImportPath": "github.com/cloosli/building-web-apps-with-go",
+    "GoVersion": "go1.5",
+    "Packages": [
+        "./..."
+    ]
+}
